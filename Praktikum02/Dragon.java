@@ -40,7 +40,7 @@ public class Dragon {
                 x -= steps;
                 break;
             default:
-                System.out.println("Direction tidak valid. Dragon tidak bergerak.");
+                System.out.println("Direction tidak valid.");
         }
     }
 
