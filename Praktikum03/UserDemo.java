@@ -3,4 +3,5 @@ public class UserDemo {
         User user1 = new User("novia", "novia123@gmail.com");
         user1.displayInfo();
     }
+    
 }
